@@ -2,8 +2,7 @@
   "name": "reactlisting",
   "version": "0.1.0",
   "private": true,
-  "license": "MIT",
-  "homepage": "http://vishnucramesh.github.io//react-redux-productListing",
+  "homepage": "https://vishnucramesh.github.io/react-redux-productListing",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",

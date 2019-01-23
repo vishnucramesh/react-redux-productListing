@@ -48,7 +48,6 @@ export class Header extends Component {
    * @returns DOM to render searchbar field
    */
     renderSearchbar = () =>{
-      console.log(this.props)
       return (
         <div class="w-full px-4 py-2 text-center">
           <form>
@@ -76,7 +75,7 @@ export class Header extends Component {
 
   const mapStateToProps = state => ({})
 
-  
+
   const mapDispatchToProps = dispatch => ({
   setSearchText: (text) => dispatch(setSearchText(text))
   })

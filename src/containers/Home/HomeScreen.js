@@ -33,7 +33,6 @@ class HomeScreen extends Component {
     }
 
     render() {
-        console.log(this.props.filteredData)
       return (
         <div className="h-full bg-black">
         <Header title={this.props.title}></Header>
