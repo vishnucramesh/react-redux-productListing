@@ -1,14 +1,14 @@
 {
-  "main.css": "//react-redux-productListing/static/css/main.c17a93d6.chunk.css",
-  "main.js": "//react-redux-productListing/static/js/main.8a7f3b60.chunk.js",
-  "main.js.map": "//react-redux-productListing/static/js/main.8a7f3b60.chunk.js.map",
-  "static/js/1.fc2a57d6.chunk.js": "//react-redux-productListing/static/js/1.fc2a57d6.chunk.js",
-  "static/js/1.fc2a57d6.chunk.js.map": "//react-redux-productListing/static/js/1.fc2a57d6.chunk.js.map",
-  "runtime~main.js": "//react-redux-productListing/static/js/runtime~main.3ae44a7d.js",
-  "runtime~main.js.map": "//react-redux-productListing/static/js/runtime~main.3ae44a7d.js.map",
-  "static/media/index.css": "//react-redux-productListing/static/media/TitilliumWeb-Regular.4f5848e6.ttf",
-  "static/css/main.c17a93d6.chunk.css.map": "//react-redux-productListing/static/css/main.c17a93d6.chunk.css.map",
-  "index.html": "//react-redux-productListing/index.html",
-  "precache-manifest.e5893cb05020645df8f4f9125b59c522.js": "//react-redux-productListing/precache-manifest.e5893cb05020645df8f4f9125b59c522.js",
-  "service-worker.js": "//react-redux-productListing/service-worker.js"
+  "main.css": "/react-redux-productListing/static/css/main.732354c5.chunk.css",
+  "main.js": "/react-redux-productListing/static/js/main.556d66cb.chunk.js",
+  "main.js.map": "/react-redux-productListing/static/js/main.556d66cb.chunk.js.map",
+  "static/js/1.fc2a57d6.chunk.js": "/react-redux-productListing/static/js/1.fc2a57d6.chunk.js",
+  "static/js/1.fc2a57d6.chunk.js.map": "/react-redux-productListing/static/js/1.fc2a57d6.chunk.js.map",
+  "runtime~main.js": "/react-redux-productListing/static/js/runtime~main.cda06d8f.js",
+  "runtime~main.js.map": "/react-redux-productListing/static/js/runtime~main.cda06d8f.js.map",
+  "static/media/index.css": "/react-redux-productListing/static/media/TitilliumWeb-Regular.4f5848e6.ttf",
+  "static/css/main.732354c5.chunk.css.map": "/react-redux-productListing/static/css/main.732354c5.chunk.css.map",
+  "index.html": "/react-redux-productListing/index.html",
+  "precache-manifest.9754d0a58790bb9551e94cd6122834ba.js": "/react-redux-productListing/precache-manifest.9754d0a58790bb9551e94cd6122834ba.js",
+  "service-worker.js": "/react-redux-productListing/service-worker.js"
 }

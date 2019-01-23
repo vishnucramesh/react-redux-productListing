@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "//react-redux-productListing/precache-manifest.e5893cb05020645df8f4f9125b59c522.js"
+  "/react-redux-productListing/precache-manifest.9754d0a58790bb9551e94cd6122834ba.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("//react-redux-productListing/index.html", {
+workbox.routing.registerNavigationRoute("/react-redux-productListing/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
