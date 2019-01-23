@@ -1,7 +1,7 @@
 {
   "main.css": "/react-redux-productListing/static/css/main.732354c5.chunk.css",
-  "main.js": "/react-redux-productListing/static/js/main.3f2ff75c.chunk.js",
-  "main.js.map": "/react-redux-productListing/static/js/main.3f2ff75c.chunk.js.map",
+  "main.js": "/react-redux-productListing/static/js/main.9943ec55.chunk.js",
+  "main.js.map": "/react-redux-productListing/static/js/main.9943ec55.chunk.js.map",
   "static/js/1.fc2a57d6.chunk.js": "/react-redux-productListing/static/js/1.fc2a57d6.chunk.js",
   "static/js/1.fc2a57d6.chunk.js.map": "/react-redux-productListing/static/js/1.fc2a57d6.chunk.js.map",
   "runtime~main.js": "/react-redux-productListing/static/js/runtime~main.cda06d8f.js",
@@ -9,6 +9,6 @@
   "static/media/index.css": "/react-redux-productListing/static/media/TitilliumWeb-Regular.4f5848e6.ttf",
   "static/css/main.732354c5.chunk.css.map": "/react-redux-productListing/static/css/main.732354c5.chunk.css.map",
   "index.html": "/react-redux-productListing/index.html",
-  "precache-manifest.606f2776a0dfaff3136261d3a506a2f3.js": "/react-redux-productListing/precache-manifest.606f2776a0dfaff3136261d3a506a2f3.js",
+  "precache-manifest.139bd9b5787fe1c499154624119b307f.js": "/react-redux-productListing/precache-manifest.139bd9b5787fe1c499154624119b307f.js",
   "service-worker.js": "/react-redux-productListing/service-worker.js"
 }
