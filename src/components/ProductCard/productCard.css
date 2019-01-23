@@ -1,0 +1,49 @@
+.container{
+    text-align: center;
+}
+
+.cover-image{
+    height:150px;
+}
+
+.text-container
+{
+    overflow-x: hidden;
+}
+
+.inner-text-container
+{
+    white-space: nowrap;
+}
+
+.text-animation{
+    animation: slide infinite 3s alternate;
+}
+
+.pad-top-24{
+    padding-top: 24px;
+}
+
+.pad-bottom-90{
+    padding-bottom: 90px;
+}
+
+.max-w-px-150{
+    max-width: 150px;
+}
+
+.min-w-px-80{
+    min-width: 80px;
+}
+
+@keyframes slide {
+  0% {
+    margin-left: 0px;
+  }
+  50% {
+    margin-left: -50px;
+  }
+  100% {
+    margin-left: -100px;
+  }
+}
