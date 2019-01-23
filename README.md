@@ -15,7 +15,6 @@ Used a number of packages for scalable applications:
 for Rapid UI Development.
 * [jest](https://jestjs.io/) - Jest is a JavaScript unit testing framework,
 * [Enzyme](https://airbnb.io/enzyme/docs/guides/jest.html) - provide additional testing utilities to interact with elements
-* 
 ### Installation
 
 react-essential-boilerplate requires [Node.js](https://nodejs.org/) v6+ to run.
@@ -52,6 +51,15 @@ $ npm test
 ```
 ```sh
 $ yarn test
+```
+
+
+#### Coverage
+```sh
+$ npm run coverage
+```
+```sh
+$ yarn run coverage
 ```
 
 #### Build
